@@ -12,10 +12,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Title of the app
-st.title("Firearm Injury Death Data Visualization App")
+st.title("Gun Violence Rates Per Year App")
 
 # Use the file path from Colab
-file_path = 'Firearm Injury Death by Year, New Mexico and U.S.csv'
+file_path = 'Gun Violence Rates Per Year.csv'
 
 # Check if the file exists
 try:
