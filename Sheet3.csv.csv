@@ -1,13 +1,12 @@
-"Sex, M/F",Race/Ethnicity,"Deaths per 100,000 Population, Age-adjusted","95% Confidence Interval, Lower Limit","95% Confidence Interval, Upper Limit",Count,Population Count Estimate,Footnotes,
-Male,American Indian/Alaska Native,28.8,23.8,33.9,131,"456,198",,
-Male,Asian/Pacific Islander,9.2,2.7,15.7,8,"85,197",,
-Male,Black,63.6,49.9,73.4,88,"133,390",,
-Male,Hispanic,35.1,32.8,37.5,902,"2,579,474",,
-Male,White,39.4,36.5,42.2,864,"1,964,061",,
-Female,American Indian/Alaska Native,3.7,2.0,5.5,18,"496,295",,
-Female,Asian/Pacific Islander,0.0,0.0,6.3,0,"102,612",,
-Female,Black,8.0,1.9,14.0,7,"103,904",,
-Female,Hispanic,5.5,4.6,6.4,140,"2,618,973",,
-Female,White,8.3,6.9,9.6,176,"2,004,282",,
-,,,,,,,,
-,,,,,,,,
+"Sex, M/F",Race/Ethnicity,"Deaths per 100,000 Population, Age-adjusted","95% Confidence Interval, Lower Limit","95% Confidence Interval, Upper Limit",Count,Population Count Estimate
+Male,American Indian/Alaska Native,28.8,23.8,33.9,131,"456,198"
+Male,Asian/Pacific Islander,9.2,2.7,15.7,8,"85,197"
+Male,Black,63.6,49.9,73.4,88,"133,390"
+Male,Hispanic,35.1,32.8,37.5,902,"2,579,474"
+Male,White,39.4,36.5,42.2,864,"1,964,061"
+Female,American Indian/Alaska Native,3.7,2.0,5.5,18,"496,295"
+Female,Asian/Pacific Islander,0.0,0.0,6.3,0,"102,612"
+Female,Black,8.0,1.9,14.0,7,"103,904"
+Female,Hispanic,5.5,4.6,6.4,140,"2,618,973"
+Female,White,8.3,6.9,9.6,176,"2,004,282"
+
