@@ -1,4 +1,4 @@
-Location,Year,"Deaths per 100,000 Population, Age-adjusted","95% Confidence Interval, Lower Limit","95% Confidence Interval, Upper Limit",Gun Casualties,Population Count Estimate,Population Count Estimate
+Location,Year,"Deaths per 100,000 Population, Age-adjusted","95% Confidence Interval, Lower Limit","95% Confidence Interval, Upper Limit",Gun Casualties Per Year,Population Count Estimate,Population Count Estimate
 New Mexico,1999,16.1,14.2,18,285,"1,798,161","1,798,161"
 New Mexico,2000,16,14.1,17.8,290,"1,828,596","1,828,596"
 New Mexico,2001,15.1,13.3,16.9,273,"1,851,525","1,851,525"
