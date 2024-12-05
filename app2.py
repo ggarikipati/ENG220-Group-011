@@ -25,7 +25,7 @@ try:
         "Select Graph Type",
         ["Line", "Scatter", "Bar", "Pie"]
     )
-aaaaaaa
+
     # Plot button
     if st.button("Plot Graph"):
         fig, ax = plt.subplots()
@@ -41,7 +41,7 @@ aaaaaaa
         elif graph_type == "Bar":
             ax.bar(data[x_column], data[y_column])
             ax.set_title(f"{y_column} vs {x_column} (Bar Chart)")
-            plt.xticks(rotation=90)  # Rotate x-axis labels for better readability
+            ax.set_xticklabels(data[x_column], rotation=90)  # Rotate x-axis labels explicitly
 
         elif graph_type == "Pie":
             # Pie chart only makes sense for single-column data
