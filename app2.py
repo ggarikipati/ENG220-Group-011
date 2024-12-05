@@ -16,9 +16,9 @@ try:
     st.dataframe(data)
 
     # Lock the X-axis to "County, New Mexico, United States" column
-    x_column = "County, New Mexico, United States"
+    x_column = "County"
     if x_column not in data.columns:
-        st.error("The dataset must contain a 'County, New Mexico, United States' column.")
+        st.error("The dataset must contain a 'County'")
     else:
         # Dropdown for selecting the Y-axis column
         y_column = st.selectbox(
