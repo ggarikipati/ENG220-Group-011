@@ -25,7 +25,7 @@ try:
         "Select Graph Type",
         ["Line", "Scatter", "Bar", "Pie"]
     )
-
+aaaaaaa
     # Plot button
     if st.button("Plot Graph"):
         fig, ax = plt.subplots()
